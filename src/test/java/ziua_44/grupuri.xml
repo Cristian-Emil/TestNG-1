@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name = "grupurisuite">
+
+    <test name = "grupuritest">
+
+        <groups>
+            <run>
+                <include name="sanity"/>
+                <include name="regression"/>
+<!--    Se vor executa toate clasele care contin SANITY + REGREWSSION , deci 4 + 4 + 3 = 7 clase  -->
+
+<!--    Daca vreau sa rulez doar clasa SANITY fara cele care contin SANITY + REGRESSION aceste se exclud, ca mai jos  -->
+<!--                <exclude name="regression"/>                                -->
+
+<!--    Daca vreau sa rulez doar clasele care contin SANITY + REGRESSION impreuna o sa folosim clasa FUNCTIONAL ca mai jos  -->
+<!--                <include name="functional"/>-->
+
+            </run>
+        </groups>
+
+        <classes>
+
+            <class name = "ziua_44.Clasa_LogareTeste"/>
+            <class name = "ziua_44.Clasa_DelogareTeste"/>
+            <class name = "ziua_44.Clasa_PlataInValute"/>
+        </classes>
+
+    </test>
+
+</suite>
+<!-- Daca precizam REGRESSION Se vor executa toate clasele care contin acesta , deci 4 + 3 = 7 clase  -->
+<!--    <include name="regression"/>                                                                     -->
+
+<!-- Daca precizam SANITY & REGRESSION ca mai sus se vor executa toate clasele care contin acesta, 4+4+3 = 11  clase  -->
+
+<!-- Daca doresc sa rulez doar clasele care contin atat SANITY cat si REGRESION atunci definesc FUNCTION care le contine
+    pe ambele si o sa rulam clasa respectiva, atuncvi in clasa Clasa_PlatasInValuta trebuie sa precizam:
+
+    @Test(priority=1, groups={"sanity","regression","functional"})
+
+    Deci la rularea lui:
+    <include name="functional"/>
+    o sa primim doar 3 raspusnuri din clasa PlataInValuta
+
+ -->

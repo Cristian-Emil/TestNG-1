@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="132d1780-f24f-4928-81aa-c7ce5013b15c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/- fisierul din JETBRAIN/temp-testng-customsuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Convertoare/ConvertJavaToXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Convertoare/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Orange_JavaToXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/Clasa_FirstTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/Clasa_OrangeHRMTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/Clasa_PrimulTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/Clasa_TestNGPrioritati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/Clasa_creereaXML_FILE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/Convert_JavaToXML/fixierulMeuXML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/Convert_JavaToXML/testNG_Convert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_42/OrangeHRMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/Clasa_Annotation_MultiLOG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/Clasa_Annotation_SingleLOG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/Clasa_Before_After_General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_AllAnnotation/Clasa_AllAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_AllAnnotation/packet_BF&amp;AF_AllAnnotation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_Assertion/Clasa_Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_Assertion/Clasa_HardAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_Assertion/Clasa_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Suite/Clasa_AfterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Suite/Clasa_BF_AF_Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Suite/Clasa_BeforeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Suite/packet_BF&amp;AF_Suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Suite/packet_BF&amp;AF_Suite1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Test/Clasa_AfterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Test/Clasa_BeforeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Test/packet_BF&amp;AF_Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_BF_AF_Test/packet_BF&amp;AF_Test1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_Test_Suite/Clasa_C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_Test_Suite/Clasa_C2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_Test_Suite/Clasa_C3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_43/pack_Test_Suite/testNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/Clasa_DelogareTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/Clasa_DependMethGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/Clasa_Grupuri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/Clasa_LogareTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/Clasa_PlataInValute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/DependencyMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/PaymentTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/SignupTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_44/grupuri.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_45/Clasa_Parametrizare.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hUlrCb0DC7W2HQAsbhkrMh7egO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_43&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Clasa_Convertoare" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_with_TestNG\src\test\java\ziua_43" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_with_TestNG\src\test\java\ziua_43\pack_BF_AF_Suite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_with_TestNG\src\test\java\ziua_43\pack_All_Method" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_with_TestNG\src\test\java\ziua_43\pack_AllAnnotation" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_with_TestNG\src\test\java\ziua_42\Convert_JavaToXML" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ziua_42.Convert_JavaToXML" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Clasa_Convertoare" />
+      <recent name="drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_44/grupuri.xml">
+    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_44/grupuri.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_with_TestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_44/grupuri.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_DelogareTeste" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_with_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_44.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ziua_44" />
+      <option name="MAIN_CLASS_NAME" value="ziua_44.Clasa_DelogareTeste" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_Grupuri" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_with_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_44.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ziua_44" />
+      <option name="MAIN_CLASS_NAME" value="ziua_44.Clasa_Grupuri" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_LogareTeste" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_with_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_44.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ziua_44" />
+      <option name="MAIN_CLASS_NAME" value="ziua_44.Clasa_LogareTeste" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_PlataInValute" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_with_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_44.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ziua_44" />
+      <option name="MAIN_CLASS_NAME" value="ziua_44.Clasa_PlataInValute" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_44/grupuri.xml" />
+        <item itemvalue="TestNG.Clasa_DelogareTeste" />
+        <item itemvalue="TestNG.Clasa_PlataInValute" />
+        <item itemvalue="TestNG.Clasa_LogareTeste" />
+        <item itemvalue="TestNG.Clasa_Grupuri" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="132d1780-f24f-4928-81aa-c7ce5013b15c" name="Changes" comment="" />
+      <created>1717656735857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717656735857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_with_TestNG$Orange_JavaToXML.ic" NAME="Orange_JavaToXML Coverage Results" MODIFIED="1717686652158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ziua_42.Convert_JavaToXML.*</FILTER>
+    </SUITE>
+  </component>
+</project>

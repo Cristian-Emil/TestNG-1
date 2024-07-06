@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite">
+
+    <test name = "Test1">
+        <classes>
+            <class name="ziua_43.pack_BF_AF_Test.Clasa_BeforeTest"/>
+        </classes>
+    </test>
+
+    <test name = "Test2">
+        <classes>
+            <class name="ziua_43.pack_BF_AF_Test.Clasa_BeforeTest"/>
+            <class name="ziua_43.pack_BF_AF_Test.Clasa_AfterTest"/>
+        </classes>
+    </test>
+
+</suite>
+
+<!-- Chiar daca avem testele separate in 1 si 2, metodele BeforeTest si AfterTest se executa o singura data daca avem
+teste individuale-->
+<!-- Daca avem testele multiple in 1 sau 2, metodele BeforeTest si AfterTest se executa de fiecare data -->

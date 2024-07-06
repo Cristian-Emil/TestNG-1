@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Orange_JavaToXML">
+    <test thread-count="5" name="JavaToXML">
+        <classes>
+            <class name="Orange_JavaToXML"/>
+        </classes>
+    </test>
+</suite>
+
+<!--'https://testng.org/testng-1.0.dtd (doctype)'-->
+<!--Ca sa rulam acest test dam click dreapta si apoi click pe RUN ......-->

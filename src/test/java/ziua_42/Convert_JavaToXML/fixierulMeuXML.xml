@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="fisierulMeu">
+
+    <test name = "testul_meu">
+
+        <classes>
+            <class name="ziua_42.Clasa_PrimulTestNG"/>
+            <class name="ziua_42.Clasa_OrangeHRMTestNG"/>
+        </classes>
+
+    </test>
+
+</suite>
+
+<!--
+    Astfel se creaza un fisier XML
+    1. se da click dreapta pe file-ulk unde vrem sa generam fisierul xml
+    2. se creaza cu comanda new/file un fisier cu terminatia ".xml"
+ -->
