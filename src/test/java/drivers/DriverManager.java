@@ -6,6 +6,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.time.Duration;
 
+//  - aceasta e clasa de driver 126
+
 public class DriverManager {
 
     public static WebDriver getDriver() {

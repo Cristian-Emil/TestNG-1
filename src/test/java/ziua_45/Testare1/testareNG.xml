@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite  name="Suite" parallel="tests">
+<!-- Comentariul paralel = "tests" ne va executa aceste teste in paralel-->
+<!-- thread-count="5" nu este nevoie sa-l scriem la fiecare test, puten sa-l specificam la SUITE.
+Acest numar spune cate locatii pot sa fie deschise in acelasi timp DSe recomanda mai mult de 2 dar maxim 5  -->
+
+<!-- Mai jos folosesc mai multe tipuri de browser si face o SERIAL EXECUTION, adica se executa in serie -->
+
+
+    <test  thread-count="5" name="chrometest">
+        <parameter name="browser"  value="chrome"/>
+        <parameter name="url"  value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"/>
+        <classes>
+            <class name="ziua_45.Testare1.Clasa_Parametru"/>
+        </classes>
+    </test>
+<!-- Sfarsit de test -->
+
+    <test thread-count="5" name="edgetest">
+        <parameter name="browser"  value="edge"/>
+        <parameter name="url"  value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"/>
+        <classes>
+            <class name="ziua_45.Testare1.Clasa_Parametru"/>
+        </classes>
+    </test>
+<!-- Sfarsit de test -->
+
+
+    <test thread-count="5" name="firefoxtest">
+        <parameter name="browser"  value="firefox"/>
+        <parameter name="url"  value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"/>
+        <classes>
+            <class name="ziua_45.Testare1.Clasa_Parametru"/>
+        </classes>
+    </test>
+<!-- Sfarsit de test -->
+
+</suite>

@@ -2,7 +2,7 @@
 public class Clasa_TestNG {
 
 /*
-    TestNG este un JAVA BASED UNIT TESTING TOOLS - deci TestNG este o unealta, un framekorw care ne ajuta sa realizam
+    TestNG este un JAVA BASED UNIT TESTING TOOLS - deci TestNG este o unealta, un framework care ne ajuta sa realizam
     mai multe tste in acelasi timp , cu mai multe browsere si mai multe URL-uri.
     TestNG ne ajuta sa folosim mai multe caracteristici - FEATURES - ale Java.
     Deci putem sa gestionam (managerizam) mai multe elemente in acelasi timp, cum sunt:
