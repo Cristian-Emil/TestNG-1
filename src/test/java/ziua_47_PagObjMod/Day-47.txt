@@ -1,0 +1,27 @@
+Day-47
+------
+Page Object model
+-----------------
+
+Test case
+----
+locators
+test methods ----code---validations+Actions
+
+2 appraoches to create page object classes
+---------------------------
+1) without using PageFactory
+2) using PageFactory
+-----------------
+
+
+WebElement usertxt=driver.findElement(By.xpath("//input[@placeholder='Username']");
+
+
+By loc=By.xpath("//input[@placeholder='Username'];
+driver.findElement(loc).sendKeys("xyz")
+
+
+
+
+

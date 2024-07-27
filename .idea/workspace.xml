@@ -4,17 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="132d1780-f24f-4928-81aa-c7ce5013b15c" name="Changes" comment="TestNG - prima parte">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_45/Testare1/Clasa_Parametru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_45/Testare1/Clasa_Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_45/Testare1/testareNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Clasa_Listener_Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_OrangeHRM.java" afterDir="false" />
+    <list default="true" id="132d1780-f24f-4928-81aa-c7ce5013b15c" name="Changes" comment="TestNG - a treia parte">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Clasa_Listener_Extent_Rep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Day-46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/MyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/OrangeHRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_ExtentsReport_DOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_I_Test_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_RaportulExtins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/raport_extins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/testare.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/extentreport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_46/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_CuPageFactory/Clasa_LoginPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_CuPageFactory/Clasa_LoginTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_CuPageFactory/testing2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_FaraPageFactory/Clasa_LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_FaraPageFactory/Clasa_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_FaraPageFactory/testing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_PageObjectModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Day-47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/LoginPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ziua_46_Testare1/RaportulExtins.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_TestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_45/Clasa_Parametrizare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_45/Clasa_Parametrizare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_46/Clasa_Listener_Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_OrangeHRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_46/Testare1/Clasa_OrangeHRM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,34 +94,12 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ziua_47_PagObjMod.Clasa_CuPageFactory" />
       <recent name="Clasa_Convertoare" />
       <recent name="drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Clasa_OrangeHRM">
-    <configuration name="Clasa_Parametrizare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ziua_45.Clasa_Parametrizare" />
-      <module name="Project_with_TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ziua_45.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_45/Testare1/testareNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Project_with_TestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_45/Testare1/testareNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_45/testng.xml">
     <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_45/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Project_with_TestNG" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_45/testng.xml" />
@@ -109,16 +110,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_OrangeHRM" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_47_PagObjMod/Clasa_CuPageFactory/testing2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_with_TestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_CuPageFactory/testing2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_47_PagObjMod/Clasa_FaraPageFactory/testing.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_with_TestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_47_PagObjMod/Clasa_FaraPageFactory/testing.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Project_with_TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ziua_46.Testare1.*" />
+          <option name="PATTERN" value="ziua_47_PagObjMod.Clasa_FaraPageFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ziua_46.Testare1" />
-      <option name="MAIN_CLASS_NAME" value="ziua_46.Testare1.Clasa_OrangeHRM" />
+      <option name="PACKAGE_NAME" value="ziua_47_PagObjMod.Clasa_FaraPageFactory" />
+      <option name="MAIN_CLASS_NAME" value="ziua_47_PagObjMod.Clasa_FaraPageFactory.Clasa_LoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -126,16 +147,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_Parametru" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Clasa_LoginTest2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Project_with_TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ziua_45.Testare1.*" />
+          <option name="PATTERN" value="ziua_47_PagObjMod.Clasa_CuPageFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ziua_45.Testare1" />
-      <option name="MAIN_CLASS_NAME" value="ziua_45.Testare1.Clasa_Parametru" />
+      <option name="PACKAGE_NAME" value="ziua_47_PagObjMod.Clasa_CuPageFactory" />
+      <option name="MAIN_CLASS_NAME" value="ziua_47_PagObjMod.Clasa_CuPageFactory.Clasa_LoginTest2" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -145,11 +166,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Clasa_OrangeHRM" />
-        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_45/Testare1/testareNG.xml" />
-        <item itemvalue="Application.Clasa_Parametrizare" />
-        <item itemvalue="TestNG.Clasa_Parametru" />
         <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_45/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_47_PagObjMod/Clasa_CuPageFactory/testing2.xml" />
+        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_with_TestNG/src/test/java/ziua_47_PagObjMod/Clasa_FaraPageFactory/testing.xml" />
+        <item itemvalue="TestNG.Clasa_LoginTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720287111887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TestNG - a doua parte">
+      <created>1721885031959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721885031959</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,7 +213,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TestNG - prima parte" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestNG - prima parte" />
+    <MESSAGE value="TestNG - a doua parte" />
+    <MESSAGE value="TestNG - a treia parte" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNG - a treia parte" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project_with_TestNG$Orange_JavaToXML.ic" NAME="Orange_JavaToXML Coverage Results" MODIFIED="1717686652158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

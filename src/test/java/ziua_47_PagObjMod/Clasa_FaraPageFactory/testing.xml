@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite">
+
+    <test thread-count="5" name="Test">
+        <classes>
+            <class name="ziua_47_PagObjMod.Clasa_FaraPageFactory.Clasa_LoginTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+<!-- Cum ruleaza secventa de program cu clasele si fisierele XML ; TEST CASE ; Pag Obj Mod ; APLICATIOM-->
+<!-- XML _ _ take action to _ _ TEST CASE _ _ take action to _ _ Page Object Model _ _ take action to _ _ APLICATION  -->

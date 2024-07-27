@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite  thread-count="5" name="Suite" >
+
+    <!-- Ca sa integram clasele ce dorim sa le rulam o sa specificam LISTENERS pentru inceput si sfarsit -->
+
+    <listeners>
+        <listener class-name="ziua_46.Testare1.Clasa_RaportulExtins" />
+
+    </listeners>
+
+    <test  thread-count= "5"  name="Test">
+        <classes>
+            <class name="ziua_46.Testare1.Clasa_OrangeHRM"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->
