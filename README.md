@@ -21,4 +21,7 @@ Rularea pachetelor de teste - grupuri de clase (ziua44)
 Rularea testelor pe mai multe browsere  
 Rularea testelor in SERIE si in PARALEL (ziua45)    
 
+A treia parte contine:  
+
+
 
