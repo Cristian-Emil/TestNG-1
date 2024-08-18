@@ -20,7 +20,7 @@ A doua parte - contine
 Rularea pachetelor de teste - grupuri de clase (ziua44)   
 Rularea testelor pe mai multe browsere  
 Rularea testelor in SERIE si in PARALEL (ziua45)    
-Rularea testelor si cautari/ascuklatri de Test NG si extimnderea listelor  
+Rularea testelor si cautari/ascuklatri de Test NG si extimnderea listelor (ziua 46) 
 
 
 
