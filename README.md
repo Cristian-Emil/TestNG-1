@@ -13,14 +13,14 @@ Modelul pentru convertorul JAVA-TO-XML (ziua42)
 Varianta Test Suite- rulam mai multe pachete cu mai multe clase in acelasi timp ajutorul cu   
 @Before & @After Suite   
 @Before & @After Test  
-@Before & @After Classes 
-(ziua43)
+@Before & @After Classes (ziua43)
+
 
 A doua parte - contine 
 Rularea pachetelor de teste - grupuri de clase (ziua44)   
 Rularea testelor pe mai multe browsere  
 Rularea testelor in SERIE si in PARALEL (ziua45)    
-Rularea testelor si cautari/ascuklatri de Test NG si extimnderea listelor (ziua 46) 
+Rularea testelor si cautari/asculatri de Test NG si extimnderea listelor (ziua 46) 
 
 
 
