@@ -18,9 +18,9 @@ Varianta Test Suite- rulam mai multe pachete cu mai multe clase in acelasi timp 
 
 A doua parte - contine 
 Rularea pachetelor de teste - grupuri de clase (ziua44)   
-Rularea testelor pe mai multe browsere  
+Rularea testelor pe mai multe browsere (ziua45) 
 Rularea testelor in SERIE si in PARALEL (ziua45)    
 Rularea testelor si cautari/asculatri de Test NG si extimnderea listelor (ziua 46) 
 
-
+Aici se termina aplicatiile ce utilizeaza TEST-NG
 
