@@ -1,4 +1,4 @@
-package day42;
+package ziua_42;
 
 import org.testng.annotations.Test;
 
